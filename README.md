@@ -4,7 +4,11 @@
 Ce TP m'a permis de :
 
 Comprendre la configuration d'un projet Maven avec Hibernate et H2
+
 Créer une entité JPA et la mapper à une table
+
 Réaliser des opérations CRUD (Create, Read, Update, Delete)
+
 Utiliser des requêtes JPQL pour filtrer les données
+
 Visualiser les données avec la console web H2
